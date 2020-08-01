@@ -36,7 +36,7 @@
 Caso você baixe os arquivos e apresente problemas informando que algumas das libs invocadas nos "imports xx from xx" não foram encontrados, use o comando no seu terminal, pip install nome_da_lib (ex: pip install requests)
 
 
-<h1> Considerações Finais </h1>
+<h1> :white_check_mark: Considerações Finais </h1>
 
 Este mini-dojozinho foi feito com muito :heartbeat: e carinho por Gabriel Nascimento Soares, na intenção de introduzir a linguagem python e ajudar quem quer saber 
 os primeiros passos sobre a mesma.
