@@ -38,5 +38,5 @@ Caso você baixe os arquivos e apresente problemas informando que algumas das li
 
 <h1> :white_check_mark: Considerações Finais </h1>
 
-Este mini-dojozinho foi feito com muito :heartbeat: e carinho por Gabriel Nascimento Soares, na intenção de introduzir a linguagem python e ajudar quem quer saber 
-os primeiros passos sobre a mesma.
+Este mini-dojozinho foi feito com muito :heartbeat: e carinho por Gabriel Nascimento Soares, na intenção de introduzir o Python e ajudar quem quer 
+dar os primeiros passos na linguagem.
